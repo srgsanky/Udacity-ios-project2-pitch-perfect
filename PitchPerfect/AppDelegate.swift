@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  PitchPerfect
 //
-//  Created by Shanmugam, Sankar on 10/30/16.
-//  Copyright © 2016 Shanmugam, Sankar. All rights reserved.
 //
 
 import UIKit
